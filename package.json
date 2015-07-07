@@ -1,0 +1,32 @@
+{
+  "name": "pp-loader",
+  "version": "0.0.1",
+  "description": "Preprocess your JavaScript files using WebPack. It's like the C preprocessor!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngwiePhoenix/pp-loader.git"
+  },
+  "keywords": [
+    "preprocess",
+    "preprocessor",
+    "pp",
+    "javascript",
+    "webpack",
+    "loader"
+  ],
+  "author": "Ingwie Phoenix <ingwie2000@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IngwiePhoenix/pp-loader/issues"
+  },
+  "homepage": "https://github.com/IngwiePhoenix/pp-loader#readme",
+  "dependencies": {
+    "compile-js-like-c": "^0.1.1",
+    "loader-utils": "^0.2.10",
+    "merge": "^1.2.0"
+  }
+}
